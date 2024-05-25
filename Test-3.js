@@ -97,3 +97,15 @@ for (var i = 1; i <= 100; i++) {
         console.log(i)
     }
 }
+
+
+// / Question 8:
+// Write a JavaScript function that takes a string as input and returns the first non-repeated character. If all characters are repeated, return null.
+// Input:
+// "swiss"
+// Output:
+// "w"
+
+function nonRepeatedChar(){
+
+}
